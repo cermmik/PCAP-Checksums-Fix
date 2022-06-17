@@ -1,6 +1,6 @@
 # PCAP Checksums Fix
 
-Simple Python script based on Scapy library for checksums recomputation (IP, UDP, and TCP layer) in the given PCAP file.
+Simple Python script based on Scapy library for checksums recomputation (IP, UDP, and TCP layer) in the PCAP file.
 
 For more details about the PCAP file processing in the Scapy library, see the documentation at [https://scapy.net/](https://scapy.net/).
 
